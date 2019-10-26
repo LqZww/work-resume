@@ -1,0 +1,72 @@
+{
+  "id": "1432946",
+  "name": "recruitment-resume",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2596769",
+      "name": "项目",
+      "font_class": "item",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "3691808",
+      "name": "住址证明",
+      "font_class": "address",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "3714120",
+      "name": "简历-专业技能",
+      "font_class": "specialty",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "3970796",
+      "name": "微信号",
+      "font_class": "weixin",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "6570471",
+      "name": "学校",
+      "font_class": "school",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "8112138",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "9996976",
+      "name": "本科生",
+      "font_class": "educationLevel",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "10027522",
+      "name": "e-mail, letter, envelope, post, mail",
+      "font_class": "email",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "10889696",
+      "name": "phone new",
+      "font_class": "phone",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
