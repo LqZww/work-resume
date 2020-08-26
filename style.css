@@ -22,7 +22,7 @@ body {
 }
 
 header {
-  background: lightgreen;
+  /* background: lightgreen; */
   grid-column: 1 / span 4;
   grid-row: 1;
 }
@@ -76,7 +76,7 @@ body {
 header {
   text-align: center;
   padding: 30px;
-  background: #444;
+  background: #555;
   color: #fff;
 }
 
