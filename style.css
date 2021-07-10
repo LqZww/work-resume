@@ -218,7 +218,6 @@ section .timeline-panel .detail img,
 section .detail img {
   width: 100%;
   height: 100%;
-  /* height: 100px; */
 }
 
 /* 放大图片 */
