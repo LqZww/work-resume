@@ -249,7 +249,7 @@ section .detail img {
   }
 
   .timeline-panel .detail ul>li:last-child {
-    display: none;
+    /* display: none; */
   }
 
   section .proexper {
